@@ -1,0 +1,24 @@
+[
+  {
+    "name": "МК110-224.8Д.4Р [М01]",
+    "manufacturer": "ОВЕН",
+    "description": "",
+    "id": "54079",
+    "type": "комбинированный модуль ввода/вывода дискретных сигналов",
+    "source_url": "https://www.souz-pribor.ru/product/mk110-8d-4r/",
+    "article": "58953",
+    "product_code": "63483",
+    "specs": {}
+  },
+  {
+    "name": "ПМ01-24.АВ",
+    "manufacturer": "ОВЕН",
+    "description": "",
+    "id": "54084",
+    "type": "GSM-модем",
+    "source_url": "https://www.souz-pribor.ru/product/pm01/",
+    "article": "39432",
+    "product_code": "73534",
+    "specs": {}
+  }
+]

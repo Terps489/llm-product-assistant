@@ -1,0 +1,18 @@
+.venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.vscode/
+.idea/
+*.log
+/*.zip
+/output/
+
+# Локальный снимок каталога и рабочие материалы.
+/data/feed.xml
+/docs/task.pdf
